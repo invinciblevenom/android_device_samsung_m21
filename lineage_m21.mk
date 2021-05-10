@@ -40,7 +40,7 @@ PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
-BUILD_FINGERPRINT := samsung/m21nsxx/m21:11/RP1A.200720.012/M215FXXU2BUD3:user/release-keys
+BUILD_FINGERPRINT := "google/sunfish/sunfish:11/RQ2A.210505.002/7246365:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
         PRODUCT_NAME=m21nsxx \
